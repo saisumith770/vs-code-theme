@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "editor.tokenColorCustomizations": {
+        "comments": "#494952",
+        "functions": "#5DD3E2",
+        // "variables": "#B28CD6"
+    }
+}
